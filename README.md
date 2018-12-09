@@ -7,3 +7,4 @@ I've used following charts for evaluation of two models :
 * Profile Chart  
 * ROI chart  
 After understanding all charts I came to the conclusion that C5.0 model is better than CART model for the Loan approval.
+Tool used is R studio.
